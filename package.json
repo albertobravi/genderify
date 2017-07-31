@@ -1,0 +1,30 @@
+{
+  "name": "genderify",
+  "version": "1.0.3",
+  "description": "Get gender from people first names",
+  "main": "src/index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "3.5.0",
+    "mocha": "2.5.3"
+  },
+  "scripts": {
+    "test": "npm run test-unit",
+    "test-unit": "NODE_ENV=test mocha 'test/*.spec.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albertobravi/genderify.git"
+  },
+  "keywords": [
+    "Gender",
+    "Firstname",
+    "genderify"
+  ],
+  "author": "Alberto Bravi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/albertobravi/genderify/issues"
+  },
+  "homepage": "https://github.com/albertobravi/genderify#readme"
+}
