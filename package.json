@@ -1,6 +1,6 @@
 {
   "name": "genderify",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Get gender from people first names",
   "main": "src/index.js",
   "dependencies": {},
